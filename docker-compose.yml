@@ -3,7 +3,7 @@ version: "3.9"
 services:
   bot:
     build: .
-    container_name: pedagog_bot
+    container_name: businuss_bot
     restart: always
     env_file: 
       - .env
